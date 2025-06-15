@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Giuliana!
 
-<!--
-**giulianamoroni/giulianamoroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a market research and analytics professional with 8+ years of experience in consumer insights, survey design, and data visualization.
 
-Here are some ideas to get you started:
+🚀 I specialize in:
+- Designing and analyzing **quantitative surveys** (conjoint, MaxDiff, tracking studies)
+- Creating **Power BI dashboards** to tell data-driven stories
+- Conducting **in-depth interviews** and synthesizing insights
+- Leading market intelligence in the **automotive & tech sectors**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Check out my portfolio:
+[📊 Power BI Dashboards](https://yourusername.github.io/market-research-portfolio/)
+[📑 Survey Design Case Studies](https://yourusername.github.io/market-research-portfolio/portfolio/ev-survey-2024)
+
+📍 Based in Frankfurt, open to opportunities in Switzerland and Europe.
+
+Let’s connect! ✉️
