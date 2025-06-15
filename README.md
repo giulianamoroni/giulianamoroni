@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=giulianamoroni&style=flat&color=blue)
 
-I'm an experienced market research & consumer insights professional with 6+ years of turning data into actionable strategies. My background spans both **quantitative** and **qualitative** research across the automotive and tech industries, with hands-on experience in both **Europe** and **Asia**.
+I'm a market research & consumer insights professional with 6+ years of turning data into actionable strategies. My background spans both **quantitative** and **qualitative** research across the automotive and tech industries, with hands-on experience in both **Europe** and **Asia**.
 
 🔍 What I do best:
 - Design and analyze **quantitative surveys** (including Conjoint, MaxDiff, tracking studies)
