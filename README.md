@@ -10,7 +10,7 @@ I'm a certified market research & consumer insights professional with 6+ years o
 - **Combine insights from multiple data sources** — including consumer panels, brand performance metrics, and standardized survey data
 - Build **Power BI dashboards** that track key consumer and business metrics
 - Translate complex data into clear, compelling recommendations for **product, marketing, sales, and strategy teams**
-- Lead cross-functional, cross-country research projects from design to delivery — I’m **PMP® certified** and hold the **MRS Advanced Certificate in Market and Social Research** *(credentials available on my LinkedIn profile)*
+- Lead cross-functional, cross-country research projects from design to delivery — I’m [**PMP® certified**](https://www.credly.com/badges/212dd91c-b46a-4daf-9c46-f6a80bf8e278) and hold the [**MRS Advanced Certificate in Market and Social Research**](https://drive.google.com/file/d/1XdG2llOrlcYkpO_eiqx_HAZl8GBuGjKU/view?usp=sharing)
 
 🌍 A bit about me:
 - I’ve lived and worked in **Germany**, **Argentina**, and **China**
