@@ -16,9 +16,9 @@ I'm a passionate market research & consumer insights professional with 6+ years 
 - I speak **English**, **Spanish**, and **Mandarin Chinese** — and I’m learning **German**
 - In my free time, I enjoy **mentoring young professionals** and helping them grow in the insights field
 
-📁 **Explore my portfolio:**
-- 📊 [Interactive Power BI Dashboards](https://giulianamoroni.github.io/market-research-portfolio/)
-- 📑 [Survey Design & Research Case Studies](https://giulianamoroni.github.io/market-research-portfolio/portfolio/ev-survey-2024)
+📊 **Explore my portfolio:**
+- 📈 [Interactive Power BI Dashboards](https://giulianamoroni.github.io/market-research-portfolio/)
+- 📝 [Survey Design & Research Case Studies](https://giulianamoroni.github.io/market-research-portfolio/portfolio/ev-survey-2024)
 
 📍 Currently based in Germany | 💼 Open to opportunities across Europe
 
@@ -29,18 +29,3 @@ I'm a passionate market research & consumer insights professional with 6+ years 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulianamoroni/)
 
 💬 *If you have any project collaboration request, please do not hesitate to reach out to me!*
-
----
-
-## 📈 GitHub Stats
-
-![Giuliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giulianamoroni&show_icons=true&theme=default)
-
----
-
-## 🤝 Connect with me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulianamoroni/)
-
-💬 *If you have any project collaboration request, please do not hesitate to reach out to me!*
-
