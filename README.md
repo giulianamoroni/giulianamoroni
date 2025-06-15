@@ -20,7 +20,7 @@ I'm a passionate market research & consumer insights professional with 6+ years 
 - [Interactive Power BI Dashboards](https://giulianamoroni.github.io/market-research-portfolio/)
 - [Survey Design & Research Case Studies](https://giulianamoroni.github.io/market-research-portfolio/portfolio/ev-survey-2024)
 
-📍 Currently based in Germany | 💼 Open to opportunities across Europe
+📍 Currently based in Germany.
 
 ---
 
