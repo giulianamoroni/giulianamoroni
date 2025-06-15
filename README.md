@@ -5,10 +5,10 @@
 I'm a certified market research & consumer insights professional with 6+ years of experience turning insights into actionable strategies. I've led projects across **Europe** and **Asia**, using a mix of **quantitative** and **qualitative** methods in the automotive and tech sectors.
 
 🔍 What I do best:
-- Design and analyze **quantitative surveys** (Conjoint, MaxDiff, A/B Testing, CX, Brand Tracking, Panels, Online Communities)
-- Conduct and synthesize **in-depth interviews and focus groups**
-- Build **Power BI dashboards** that surface key consumer and business metrics
-- **Combine insights from multiple data sources** — including consumer panels, brand performance metrics, and shopper data
+- Design and analyze **quantitative studies**: shopper path, Conjoint, MaxDiff, A/B testing, brand tracking, U&A, online communities, social listening
+- Conduct and synthesize **qualitative insights**: product clinics, in-depth interviews, focus groups, diary studies
+- **Combine insights from multiple data sources** — including consumer panels, brand performance metrics, and standardized survey data
+- Build **Power BI dashboards** that track key consumer and business metrics
 - Translate complex data into clear, compelling recommendations for **product, marketing, sales, and strategy teams**
 - Lead cross-functional, cross-country research projects from design to delivery — I’m **PMP® certified** and hold the **MRS Advanced Certificate in Market and Social Research** *(credentials available on my LinkedIn profile)*
 
