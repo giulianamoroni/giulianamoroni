@@ -6,7 +6,7 @@ I'm a certified market research & consumer insights professional with 6+ years o
 
 🔍 What I do best:
 - Design and analyze **quantitative studies**: shopper path, Conjoint, MaxDiff, A/B testing, brand tracking, U&A, online communities, social listening
-- Conduct and synthesize **qualitative insights**: product clinics, in-depth interviews, focus groups, diary studies
+- Conduct and synthesize **qualitative insights**: product clinics, in-depth interviews, focus groups, product workshops, diary studies
 - **Combine insights from multiple data sources** — including consumer panels, brand performance metrics, and standardized survey data
 - Build **Power BI dashboards** that track key consumer and business metrics
 - Translate complex data into clear, compelling recommendations for **product, marketing, sales, and strategy teams**
